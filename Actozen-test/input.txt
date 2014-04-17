@@ -1,0 +1,14 @@
+Chulbul Pandey|USN2500XYZ|Bangalore|Information Science
+Michael Jordan|USN4566BBC|Delhi|Computer Science
+Ambani|USN1166BBC|Delhi|Computer Science
+Bush|USN1066BBC|Delhi|Computer Science
+condeiliza|USN0166BBC|Delhi|Computer Science
+Chandan|USN8966BBC|Kolaba|Computer Science
+Balbir|USN4566BBC|Delhi|Computer Science
+Bhushan|USN1866BBC|Delhi|Computer Science
+Drek|USN8766BBC|Lucknow|Computer Science
+Eshan|USN7866BBC|Hyderabad|Electronics
+Emily|USN1566BBC|Chennai|Material Science
+Hatim|USN1466HRC|Mumbai|Physics 
+Husky|USN566AAB|Delhi|Bio 
+garima|USN4556RRC|Pune|Chemistry 
