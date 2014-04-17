@@ -1,3 +1,3 @@
 test-repos
 ==========
-This Repo Contains Variuous Miscellaneous Codes
+This Repo Contains Various Miscellaneous Codes
