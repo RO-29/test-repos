@@ -1,4 +1,3 @@
-
 <html>
 <head>
 
@@ -60,7 +59,7 @@ function compareArrayByName($a, $b)
   return strcasecmp($a[0],$b[0]);
 }
 
-//Handle incoming search request in GET array 
+//Handle incoming search request in POST array 
 if(isset($_POST['query'])){
  if(isset($_SESSION['val'])){
   $flag=0;
